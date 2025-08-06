@@ -1,3 +1,6 @@
+## Fork Description
+This program originaly had a TUI, however my with this fork it is now a CLI tool. This is all i have changed.
+
 ## What is this?
 
 This is a program intended to help you download fanfiction from the [Archive of Our Own](https://archiveofourown.org/) in bulk. This program is primarily intended to work with links to the Archive of Our Own itself, but has a secondary function of downloading any [Pinboard](https://pinboard.in/) bookmarks that link to the Archive of Our Own. You can ignore the Pinboard functionality if you don't know what Pinboard is or don't use Pinboard.
